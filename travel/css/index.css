@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a:link {color:#FF0000;}
+a:visited {color:#FF5809;}
+a:hover {color:#FF00FF;}
+a:active {color:#0000FF;}
+img{
+  width: 100%;
+  height: 100%;
+}
+.title{
+  font-size: 30px;
+  width: 100%;
+  font-family: serif;
+  color: #A23400;
+}
+.title_right{
+  font-size: 20px;
+}
+.intro{
+  font-size: 20px;
+  text-indent: 2em;
+  padding: 10px;
+  background-color: #FFAF60;
+  color: #D26900;
+}
+footer{
+  text-align: center;
+  color: white;
+  font-size: 14px;
+  background-color: #3C3C3C;
+  margin: 10px auto 0 auto;;
+}
+span{
+  color: white;
+}
